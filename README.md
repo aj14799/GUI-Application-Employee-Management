@@ -9,10 +9,10 @@ Made this so, that i could easy to calculate an employees montly salary that to 
 ![alt text](https://github.com/aj14799/GUI-Application-Employee-Management/blob/master/Screenshots/Screenshot%20(235).png)
 
 
-![alt text](https://github.com/aj14799/GUI-Application-Employee-Management/blob/master/Screenshots/Screenshot%20(236).png)
-
-
 ![alt text](https://github.com/aj14799/GUI-Application-Employee-Management/blob/master/Screenshots/Screenshot%20(237).png)
+
+
+![alt text](https://github.com/aj14799/GUI-Application-Employee-Management/blob/master/Screenshots/Screenshot%20(236).png)
 
 
 ### Dummy Create Database Entries 
